@@ -14,10 +14,10 @@
 📚 Reading: [text](url)  
 🎥 [video](url)  
 
-🔗 [w3schools](https://www.w3schools.com/)
-🎥 [Mosh: JavaScript](https://youtube.com/playlist?list=PLTjRvDozrdlxEIuOBZkMAK5uiqp8rHUax&si=nH6K_6K6jOUC3CnL)
-🎥 [Traversy Media: JavaScript for Beginners](https://youtu.be/hdI2bqOjy3c?si=q99UMBD1XGxNZmJx)  
-🔗 [W3C Markup Validation Service](https://validator.w3.org/detailed.html#validate-by-upload)    
+🔗 [w3schools](https://www.w3schools.com/)  
+🎥 [Mosh: JavaScript](https://youtube.com/playlist?list=PLTjRvDozrdlxEIuOBZkMAK5uiqp8rHUax&si=nH6K_6K6jOUC3CnL)  
+🎥 [Traversy Media: JavaScript for Beginners](https://youtu.be/hdI2bqOjy3c?si=q99UMBD1XGxNZmJx)   
+🔗 [W3C Markup Validation Service](https://validator.w3.org/detailed.html#validate-by-upload)  
 🔗 [W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/#validate_by_upload)  
 
 ## 🛠️ Project Requirements
