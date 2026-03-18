@@ -10,8 +10,11 @@
 2. **Extract** the folder and open the extracted folder in your code editor.
 3. **Build:** Write your JavaScript code in `script.js`.
 
-## Resources
-- [text](url)
+## 💡 Additional Resources  
+📚 Reading: [text](url)  
+🎥 [video](url)  
+🔗 [W3C Markup Validation Service](https://validator.w3.org/detailed.html#validate-by-upload)    
+🔗 [W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/#validate_by_upload)  
 
 ## 🛠️ Project Requirements
 * [ ] **Requirement 1:** Text
