@@ -1,9 +1,7 @@
-// Mike Jenkins
-// 05 OCT 20XX
-// Project
+// Your first and last name
+// Current date
+// Project title
 
-const greeting = 'Hello! How are you today?';
-console.log(greeting);
 
 
 
