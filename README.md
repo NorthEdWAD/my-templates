@@ -10,6 +10,9 @@
 2. **Extract** the folder and open the extracted folder in your code editor.
 3. **Build:** Write your JavaScript code in `script.js`.
 
+## Resources
+- [text](url)
+
 ## 🛠️ Project Requirements
 * [ ] **Requirement 1:** Text
 * [ ] **Requirement 2:** Text
