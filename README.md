@@ -36,7 +36,7 @@
 ## 📤 Uploading Your Files to GitHub
 1. Go to your **forked repository** on GitHub.com.
 2. Click the **Add file** button > **Upload files**.
-3. **Drag and drop** your updated `index.html`, `styles.css`, and `script.js`.
+3. **Drag and drop** your updated `starter.html`, `starter.css`, and `starter.js`.
 4. Scroll down, type "Final Submission," and click **Commit changes**.
 5. Email the web address of your **forked repository** to your teacher.
    - Use the project title as the email **SUBJECT LINE** 
