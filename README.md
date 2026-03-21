@@ -5,6 +5,9 @@
 
 ---
 
+## 📅 **Due Date**
+- **Final Submission:** [Date]
+
 ## 🚀 Getting Started
 1. **Download** the starter files from this repo (Code > Download ZIP).
 2. **Extract** the folder and open the extracted folder in your code editor.
@@ -23,6 +26,14 @@
 ## 🛠️ Project Requirements
 * [ ] Text
 * [ ] Text
+
+## 🚀 **To Complete Your Project**
+1. **Plan:** Sketch your design on paper or in Figma.
+2. **Build:** Write your code. Start with the homepage.
+3. **Test:** Check your site on a phone and computer.
+
+---
+
 
 ## 📤 Uploading Your Files to GitHub
 1. Go to your **forked repository** on GitHub.com.
