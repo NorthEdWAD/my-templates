@@ -13,7 +13,7 @@
 2. **Extract** the folder and open the extracted folder in your code editor.
 3. **Build:** Write your JavaScript code in `script.js`.
 
-## 💡 Related Resources  
+## 💡 Resources  
 📚 Reading: [text](url)  
 🎥 [video](url)  
 
