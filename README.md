@@ -21,8 +21,8 @@
 🔗 [W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/#validate_by_upload)  
 
 ## 🛠️ Project Requirements
-* [ ] **Requirement 1:** Text
-* [ ] **Requirement 2:** Text
+* [ ] Text
+* [ ] Text
 
 ## 📤 Uploading Your Files to GitHub
 1. Go to your **forked repository** on GitHub.com.
