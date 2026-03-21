@@ -15,7 +15,7 @@
 
 ## 💡 Resources  
 
-- See the `examples` and `starter-files` folders in this repository
+- See the `examples` and `starter-files` folders in this repository  
 
 🔗 [List of general web design resources](https://github.com/NorthEdWAD/web-resources-list/blob/main/README.md)  
 
