@@ -14,10 +14,10 @@
 3. **Build:** Write your JavaScript code in `script.js`.
 
 ## 💡 Resources  
-📚 Reading: [text](url)  
-🎥 [video](url)  
 
-🔗 [List of resources](https://github.com/NorthEdWAD/web-resources-list/blob/main/README.md)  
+- See the `examples` and `starter-files` folders in this repository
+
+🔗 [List of general web design resources](https://github.com/NorthEdWAD/web-resources-list/blob/main/README.md)  
 
 
 ## 🛠️ Project Requirements
