@@ -11,7 +11,8 @@
 ## 🚀 Getting Started
 1. **Download** the starter files from this repo (Code > Download ZIP).
 2. **Extract** the `.zip` folder (by right-clicking) and open the extracted folder in your code editor.
-3. **Build:** Write your JavaScript code in `script.js`.
+3. **Delete** the original `.zip` folder (to keep your files tidy).
+4. **Build:** Write your JavaScript code in `script.js`.
 
 ## 💡 Resources  
 
